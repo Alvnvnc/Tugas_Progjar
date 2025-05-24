@@ -17,7 +17,7 @@ Repository ini terdiri dari beberapa branch yang masing-masing berisi pengerjaan
 | `main` | Branch utama dengan README dan dokumentasi | ✅ Aktif |
 | `Tugas-2` | Pengerjaan Tugas 2 Progjar | ✅ Selesai |
 | `Tugas-3` | Pengerjaan Tugas 3 Progjar | ✅ Selesai |
-| `ets_progjar` | Hasil pengerjaan ETS (Ujian Tengah Semester) | ✅ Selesai |
+| `ets_progjar` | Hasil pengerjaan ETS (Evaluasi Tengah Semester) | ✅ Selesai |
 
 ## 🌿 Branch yang Tersedia
 
