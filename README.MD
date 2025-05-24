@@ -44,7 +44,7 @@ git checkout Tugas-3
 ### 📝 ETS Progjar
 **Branch:** `ets_progjar`
 
-Berisi hasil pengerjaan Ujian Tengah Semester (ETS) mata kuliah Progjar.
+Berisi hasil pengerjaan Evaluasi Tengah Semester (ETS) mata kuliah Progjar.
 
 **Cara mengakses:**
 ```bash
